@@ -27,5 +27,7 @@ Once you cloned the repo, you'll have to need to install missing libraries using
 And you're good to go. Run GWO_TSP.py to plot graph as result of solving problem.
 
 ## Test Results
+Here are some random results of plotting distances for traveling salesman between six cities.
+As you see results obtained from GWO algorithm are not the best optimal solutions, but they produce acceptable results.
 
 ![alt testresults](https://github.com/moharastegaran/Solving-TSP-problem-using-GWO-in-python/blob/main/tspgwo_testresults.jpg?raw=true)
